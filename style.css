@@ -1,0 +1,28 @@
+#profile{
+    background: linear-gradient(to bottom right,#80ED99,#57CC99,#38A3A5,#22577A);
+    height: 500px;
+    text-align: center;
+}
+#profile_pic{
+    margin-top: 50px;
+}
+.menu{
+    list-style: none;
+    right: 30px;
+    position: fixed;
+    z-index: 10;
+    cursor: pointer;
+}
+.link{
+    float: left;
+    padding: 5px 9px;
+    font-size: 23px;
+    font-family: fantasy;
+    color: firebrick;
+}
+.link:hover{
+    background-color: peachpuff;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+}
